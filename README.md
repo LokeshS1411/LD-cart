@@ -133,7 +133,3 @@ ecommerce-website/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Copy this template, customize the details to fit your specific project, and then add it to your GitHub repository.
