@@ -49,8 +49,8 @@ This is a mini eCommerce website built using the MERN stack (MongoDB, Express.js
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-website.git
-cd ecommerce-website
+git clone https://github.com/LokeshS1411/LD-cart.git
+
 ```
 
 ### Install dependencies for backend
@@ -84,7 +84,7 @@ The backend server will run on `http://localhost:5000`.
 ### Start the frontend server
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 The frontend server will run on `http://localhost:3000`.
 
@@ -104,24 +104,6 @@ Open your browser and navigate to `http://localhost:3000` to view the eCommerce 
 ### Orders
 - `POST /api/orders` - Create a new order
 - `GET /api/orders/:id` - Get order by ID
-
-## Folder Structure
-```
-ecommerce-website/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   └── App.js
-└── README.md
-```
 
 ## Future Enhancements
 - Add product reviews and ratings
