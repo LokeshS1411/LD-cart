@@ -1,4 +1,4 @@
-# eCommerce Website
+# ECommerce Website
 
 ## Project Overview
 This is a mini eCommerce website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The project showcases basic functionalities of an online store, including product listings, shopping cart, user authentication, and order management.
